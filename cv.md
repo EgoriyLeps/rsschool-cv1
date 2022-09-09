@@ -16,3 +16,9 @@ result = a * b
 return result
 }
 ```
+## Work Experience
+RSSchool Stage 1(in progress)
+
+## Education
+ - Belarusian National Technical University, Energy Engineer, 2023 
+ - Self-education Web-Development
