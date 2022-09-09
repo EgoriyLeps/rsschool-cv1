@@ -9,7 +9,7 @@ I realized that I want to do development when I saw salaries in IT. But I really
  - Git
  - Dev Tools
  - Figma
- - 
+ 
 ## Code
 ```
 class="practice-code__example">
