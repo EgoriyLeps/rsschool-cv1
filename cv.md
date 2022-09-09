@@ -29,5 +29,5 @@ RSSchool Stage 1(in progress)
 A-1/A-2
 
 ## Contacts
-[Telegram](t.me/egoleps)
+[Telegram](https://t.me/egoleps)
 [Discord](https://discordapp.com/users/988883824144416808/)
