@@ -22,3 +22,10 @@ RSSchool Stage 1(in progress)
 ## Education
  - Belarusian National Technical University, Energy Engineer, 2023 
  - Self-education Web-Development
+
+ ## English Level
+A-1/A-2
+
+## Contacts
+[Telegram](t.me/egoleps)
+[Discord](https://discordapp.com/users/988883824144416808/)
