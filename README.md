@@ -1,1 +1,1 @@
-https://egoriyleps.github.io/rsschool-cv/cv
+https://egoriyleps.github.io/rsschool-cv/
